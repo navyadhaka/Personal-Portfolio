@@ -25,5 +25,4 @@ To view the portfolio locally, follow these steps:
 2. Open the index.html file in your preferred browser.
 
 ## Demo
-![Demo](![image](https://github.com/user-attachments/assets/1ac74cdd-df74-4510-91c6-f4b131b24306)
-)
+![image](https://github.com/user-attachments/assets/27c3fbdb-3ab0-4c4f-abaf-e0376643c9ee)
